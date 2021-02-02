@@ -1,0 +1,10 @@
+random:
+  ";random <value1> <value2>"
+vatsim: |
+  Aircraft details -- ;vatsim aircraft <callsign>
+  Departures from airport -- ;vatsim departures <airport icao>
+  Arrivals to airport -- ;vatsim arrivals <airport icao>
+
+  Controller details -- ;vatsim controller <callsign>
+
+  General network info -- ;vatsim info
